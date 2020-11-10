@@ -1,0 +1,35 @@
+
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
+f
+java:S2259¤"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(‘×œè8ĞÈåÛ.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(²ı…Çùÿÿÿÿ8¨ŸÛÿÚ.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
+i
+java:S1192J"LDefine a constant instead of duplicating this literal "Rename to: " 8 times.(ºŸˆ8¯Ëƒ€Û.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÇÑ„şÿÿÿÿ8‰ìÌÿÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌóÒ8ã¯ÎÿÚ.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(œ•é‹8ÙĞ­€Û.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ì‚Ú­8¨ŸÛÿÚ.
+k
+java:S2095Œ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÿÂµıÿÿÿÿ8ĞÈåÛ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(œ•é‹8º²€Û.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(ºŸˆ8òÔ©€Û.
+
+java:S1192"_Define a constant instead of duplicating this literal "(09|01[2|6|8|9])+([0-9]{8})\\b" 3 times.(úÕ©Íùÿÿÿÿ8™ø±Û.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÔŒµÉ8èÏÿÚ.
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8ĞÈåÛ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¿û•èøÿÿÿÿ8¨ŸÛÿÚ.
+Y	java:S125™"<This block of commented-out lines of code should be removed.(ÉÕÿË8ÖË‚Û.
+M
+java:S2093‹"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ĞÈåÛ.
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(à±ªb8äÖ‡€Û.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾±”û8¢¢ËÿÚ.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ºŸˆ8½“­€Û.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ı…Çùÿÿÿÿ8½½‘€Û.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8ĞÈåÛ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(›É¢şÿÿÿÿ8ëœÓÿÚ.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8ĞÈåÛ.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ºŸˆ8¯Ëƒ€Û.
